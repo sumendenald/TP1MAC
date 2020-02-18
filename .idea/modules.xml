@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Sequence1/Sequence1.iml" filepath="$PROJECT_DIR$/Sequence1/Sequence1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TP1MAC.iml" filepath="$PROJECT_DIR$/TP1MAC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sequence2/sequence2.iml" filepath="$PROJECT_DIR$/sequence2/sequence2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sequence3/sequence3.iml" filepath="$PROJECT_DIR$/sequence3/sequence3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sequencebonus/sequencebonus.iml" filepath="$PROJECT_DIR$/sequencebonus/sequencebonus.iml" />
+    </modules>
+  </component>
+</project>
