@@ -23,7 +23,6 @@ public class Etudiant extends Personne {
 
     }
 
-
     public String getAdresseParents() {
            
         return adresseParents ;
@@ -56,6 +55,7 @@ public class Etudiant extends Personne {
     public void affiche(){
         super.affiche();
         System.out.println("adresse des parents : " + adresseParents  );
+
 
     }
 }

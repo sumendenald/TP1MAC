@@ -28,6 +28,7 @@ public class TestPolymorphismePersonne {
            System.out.println( " nom complet :" +  personnes.get(i).getNomComplet()+" mail: "+ personnes.get(i).getMail());
 
         }
+        System.out.println(personnes); 
 
 
 
